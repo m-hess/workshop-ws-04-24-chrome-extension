@@ -1,0 +1,15 @@
+#displayExtStyles {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;  
+  box-sizing: border-box;
+  margin:30px;
+}
+
+img {
+  margin: 15px;
+}
+
+#clippyImg:hover {
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.25); 
+}
